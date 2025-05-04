@@ -2,7 +2,7 @@
 ## <p align="center" style="margin-top: 0;">SISTEM PENJADWALAN GUDANG GABAH TERINTEGRASI</p>
 
 <p align="center">
-  <img src="logo-usb-2013 (1).png" width="300" alt="Deskripsi gambar" />
+  <img src="logo-usb-2013 (1).jpg" width="300" alt="Deskripsi gambar" />
 </p>
 
 ### <p align="center">AHMAD KHANIF IZZAH ARIFIN</p>
